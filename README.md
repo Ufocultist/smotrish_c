@@ -1,1 +1,0 @@
-# smotrish_c
